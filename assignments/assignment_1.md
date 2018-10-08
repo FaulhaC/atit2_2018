@@ -43,7 +43,7 @@ transform cifar-10 to grayscale.
 # F Linear regression BOSTON
 _5 points_
 
-Train a logistic regression model on the BOSTON dataset to predict median values of houses. Test it on the test set.
+Train a linear regression model on the BOSTON dataset to predict median values of houses. Test it on the test set.
 Show the code how you did it! What dependent variables (columns) have the biggest influence?
 
 # G Logistic regression MNIST
@@ -52,7 +52,7 @@ _4 points_
 Evalute logistic regression as B  on MNIST
 
 # H Feedback
-_2 point_
+_2 points_
 
 * How much time did you work on this assignment and how often did you meet?
 * Did you use Google Cloud or Anaconda?
