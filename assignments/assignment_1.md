@@ -49,7 +49,7 @@ Show the code how you did it! What dependent variables (columns) have the bigges
 # G Logistic regression MNIST
 _4 points_
 
-Evalute logistic regression as B  on MNIST
+Evalute logistic regression as B and D on MNIST
 
 # H Feedback
 _2 points_
